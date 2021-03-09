@@ -43,3 +43,16 @@ nav a:hover{
     transition: .5s;
 }
 
+.flex-grid{
+    margin: auto;
+    display:flex;
+    margin-top: 20%;
+}
+.flex-grid .col{
+    flex: 1;
+    border: 2px solid white;
+    width: 10%;
+    height: 10%;
+    color: #D6D6D6;
+}
+
