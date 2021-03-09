@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 *{
     background-color: #272822;
     font-family: Consolas, monaco, monospace;
@@ -55,9 +58,17 @@ nav a:hover{
     width: 60%;
     padding: 10px;
 
-    
-    
 }
+
+
+
+
+
+
+
+
+
+
 .introduction #name{
     font-weight: bold;
     font-size: 50px; 
@@ -80,65 +91,67 @@ nav a:hover{
     color: #F92672;
     transition: 1s;
 }
+
 .introduction #stay_curious{
     font-size: 80px;
     text-align: center;
 }
+
 #s:hover{
     color:#66D9EF;
-    transition: 1s;
+    transition: .5s;
 }
 #s{
     color:#F92672;
-    transition: 1s;
+    transition: .5s;
 }
 #t:hover{
     color:#A6E22E;
-    transition: 1s;
+    transition: .5s;
 }
 #t{
     color:#FD971F;
-    transition: 1s;
+    transition: .5s;
 }
 #a:hover{
     color:#66D9EF;
-    transition: 1s;
+    transition: .5s;
 }
 #a{
     color:#E6DB74;
-    transition: 1s;
+    transition: .5s;
 }
 #y:hover{
     color:#A6E22E;
-    transition: 1s;
+    transition: .5s;
 }
 #y{
     color: #AE81FF;
-    transition: 1s;
+    transition: .5s;
 }
 #c:hover{
     color:#FD971F;
-    transition: 1s;
+    transition: .5s;
 }
 #c{
     color:#66D9EF;
-    transition: 1s;
+    transition: .5s;
 }
 #u:hover{
     color:#AE81FF;
-    transition: 1s;
+    transition: .5s;
 }
 #u{
     color:#F92672;
-    transition: 1s;
+    transition: .5s;
 }
 #r:hover{
     color:#FD971F;
-    transition: 1s;
+    transition: .5s;
 }
 #r{
     color:#A6E22E;
-    transition: 1s;
+    transition: .5s;
 }
 #i:hover{
     
@@ -153,27 +166,27 @@ nav a:hover{
 }
 #o:hover{
     color:#66D9EF;
-    transition: 1s;
+    transition: .5s;
 }
 #o{
     color:#AE81FF;
-    transition: 1s;
+    transition: .5s;
 }
 #u2:hover{
     color:#A6E22E;
-    transition: 1s;
+    transition: .5s;
 }
 #u2{
     color:#FD971F;
-    transition: 1s;
+    transition: .5s;
 }
 #s2:hover{
     color:#F92672;
-    transition: 1s;
+    transition: .5s;
 }
 #s2{
     color:#E6DB74;
-    transition: 1s;
+    transition: .5s;
 }
 .purple{
     color: #AE81FF;
