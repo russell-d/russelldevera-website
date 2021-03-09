@@ -49,11 +49,13 @@ nav a:hover{
     align-items: baseline;
     display: flex;
     flex-wrap: wrap;
-    border: 2px solid white;
+    border: 0px solid white;
     margin: auto;
     margin-top: 8%;
     width: 60%;
     padding: 10px;
+
+    
     
 }
 .introduction #name{
@@ -81,6 +83,97 @@ nav a:hover{
 .introduction #stay_curious{
     font-size: 80px;
     text-align: center;
+}
+#s:hover{
+    color:#66D9EF;
+    transition: 1s;
+}
+#s{
+    color:#F92672;
+    transition: 1s;
+}
+#t:hover{
+    color:#A6E22E;
+    transition: 1s;
+}
+#t{
+    color:#FD971F;
+    transition: 1s;
+}
+#a:hover{
+    color:#66D9EF;
+    transition: 1s;
+}
+#a{
+    color:#E6DB74;
+    transition: 1s;
+}
+#y:hover{
+    color:#A6E22E;
+    transition: 1s;
+}
+#y{
+    color: #AE81FF;
+    transition: 1s;
+}
+#c:hover{
+    color:#FD971F;
+    transition: 1s;
+}
+#c{
+    color:#66D9EF;
+    transition: 1s;
+}
+#u:hover{
+    color:#AE81FF;
+    transition: 1s;
+}
+#u{
+    color:#F92672;
+    transition: 1s;
+}
+#r:hover{
+    color:#FD971F;
+    transition: 1s;
+}
+#r{
+    color:#A6E22E;
+    transition: 1s;
+}
+#i:hover{
+    
+    color: #d6d6d6;
+    transition: 1s;
+}
+#i{
+    color: #272822;
+    transition: 1s;
+    text-decoration: none;
+    font-weight: bold;
+}
+#o:hover{
+    color:#66D9EF;
+    transition: 1s;
+}
+#o{
+    color:#AE81FF;
+    transition: 1s;
+}
+#u2:hover{
+    color:#A6E22E;
+    transition: 1s;
+}
+#u2{
+    color:#FD971F;
+    transition: 1s;
+}
+#s2:hover{
+    color:#F92672;
+    transition: 1s;
+}
+#s2{
+    color:#E6DB74;
+    transition: 1s;
 }
 .purple{
     color: #AE81FF;
