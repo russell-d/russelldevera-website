@@ -47,6 +47,7 @@ nav a:hover{
     font-size: 30px;
     align-items: baseline;
     display: flex;
+    flex-wrap: wrap;
     border: 2px solid white;
     margin: auto;
     margin-top: 8%;
@@ -54,8 +55,6 @@ nav a:hover{
     padding: 10px;
     
 }
-
-.introduction:hover
 .introduction #name{
     font-weight: bold;
     font-size: 50px; 
