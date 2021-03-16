@@ -7,6 +7,10 @@ html{
     margin: 0px;
 }
 
+.left{
+    line-height:80px;
+}
+
 nav{
     color:  #d6d6d6;
     height: 80px;
