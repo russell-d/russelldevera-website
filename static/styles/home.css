@@ -7,6 +7,16 @@ html{
     margin: 0px;
 }
 
+.left{
+    line-height:100px;
+    margin-left: 1%;
+}
+
+.left > img{
+    height: 40px;
+    width: 40px;
+}
+
 nav{
     color:  #d6d6d6;
     height: 80px;
@@ -62,17 +72,9 @@ nav a:hover{
     margin-top: 8%;
     width: 60%;
     padding: 10px;
-
+    justify-content: center;
+    align-items: center;
 }
-
-
-
-
-
-
-
-
-
 
 .introduction #name{
     font-weight: bold;
