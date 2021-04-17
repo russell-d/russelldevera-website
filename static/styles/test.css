@@ -8,14 +8,13 @@ html{
 }
 
 .left{
-    line-height:80px;
-    margin-left: 3%;
+    line-height:100px;
+    margin-left: 1%;
 }
 
 .left > img{
     height: 40px;
     width: 40px;
-    
 }
 
 nav{
