@@ -73,17 +73,9 @@ nav a:hover{
     margin-top: 8%;
     width: 60%;
     padding: 10px;
-
+    justify-content: center;
+    align-items: center;
 }
-
-
-
-
-
-
-
-
-
 
 .introduction #name{
     font-weight: bold;
