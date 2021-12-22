@@ -17,6 +17,15 @@ html{
     width: 40px;
 }
 
+a.active{
+    color: #FD971F;
+}
+
+nav a:hover{
+    color: #66D9EF;
+    transition: .5s;
+}
+
 nav{
     color:  #d6d6d6;
     height: 80px;
