@@ -14,5 +14,9 @@ def about():
 def test():
     return render_template('test.html')
 
+@app.route('/Resume')
+def resume():
+    return render_template('resume.html')
+
 if __name__ == '__main__':
     app.run(debug = True)

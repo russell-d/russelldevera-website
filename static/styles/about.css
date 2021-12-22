@@ -47,14 +47,48 @@ nav a:hover{
 .about{
     margin: auto;
     width: 80%;
-    margin-top: 6%;
-    border: 2px solid blue;
+    margin-top: 1%;
+    /* border: 2px solid blue; */
     align-items: baseline;
     display: flex;
     flex-wrap: wrap;
     padding: 10px;
     color: #D6D6D6;
     font-size: 30px;
+}
+
+.about2 {
+    margin-top: 2%;
+    
+}
+
+.about2 > p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#socool{
+    font-weight: bolder;
+    color: #66D9EF;
+    text-decoration: none;
+}
+
+#c {
+    font-weight: bolder;
+    color: #AE81FF;
+    text-decoration: none;
+}
+
+#g {
+    font-weight: bolder;
+    color: #F92672;
+    text-decoration: none;
+}
+
+#csp {
+    font-weight: bolder;
+    color: #E6DB74;
+    text-decoration: none;
 }
 
 #school{
@@ -71,19 +105,3 @@ nav a:hover{
     transition: 1s;
 }
 
-.container{
-    color: #d6d6d6;
-    margin: auto;
-    display:grid;
-    margin-top: 10%;
-    border: 2px solid white;
-
-    grid-template-columns: 100px 50px 100px;
-    grid-template-rows: 80px auto 80px;
-    column-gap: 10px;
-    row-gap: 10px;
-}
-
-.container > div{
-    border: 2px solid red;
-}
